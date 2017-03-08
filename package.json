@@ -1,0 +1,23 @@
+{
+  "name": "newgirlapp",
+  "version": "1.0.0",
+  "description": "create a node app with Express, mySQL, and BodyParser with three Express Routes",
+  "main": "newgirlapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brigmanlp/NewGirlApp.git"
+  },
+  "author": "brigmanlp, jesspankus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brigmanlp/NewGirlApp/issues"
+  },
+  "homepage": "https://github.com/brigmanlp/NewGirlApp#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mysql": "^2.13.0"
+  }
+}
